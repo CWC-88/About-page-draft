@@ -82,7 +82,6 @@ nav a {
   flex-direction: row;
   padding-top: 3%;
   padding-bottom: 3%;
-  background-color: red;
 }
 .Lpx {
   display: flex;
@@ -93,6 +92,7 @@ nav a {
 .Lpic {
   height: 150px;
   width: 150px;
+  border-radius: 50%;
 }
 .lpp {
   padding-top: 5%;
@@ -105,7 +105,6 @@ nav a {
   flex-direction: row;
   padding-top: 3%;
   padding-bottom: 3%;
-  background-color: blue;
 }
 .Cpx {
   display: flex;
@@ -116,6 +115,7 @@ nav a {
 .Cpic {
   height: 150px;
   width: 150px;
+  border-radius: 50%;
 }
 .cpp {
   padding-top: 5%;
@@ -128,7 +128,6 @@ nav a {
   flex-direction: row;
   padding-top: 3%;
   padding-bottom: 3%;
-  background-color: green;
 }
 .Rpx {
   display: flex;
@@ -139,6 +138,7 @@ nav a {
 .Rapic {
   height: 150px;
   width: 150px;
+  border-radius: 50%;
 }
 .rpp {
   padding-top: 5%;
@@ -151,7 +151,6 @@ nav a {
   flex-direction: row;
   padding-top: 3%;
   padding-bottom: 3%;
-  background-color: purple;
 }
 .ropx {
   display: flex;
@@ -162,6 +161,7 @@ nav a {
 .Ropic {
   height: 150px;
   width: 150px;
+  border-radius: 50%;
 }
 .ropp {
   padding-top: 5%;
@@ -174,7 +174,6 @@ nav a {
   flex-direction: row;
   padding-top: 3%;
   padding-bottom: 3%;
-  background-color: silver;
 }
 .Spx {
   display: flex;
@@ -185,6 +184,7 @@ nav a {
 .Spc {
   height: 150px;
   width: 150px;
+  border-radius: 50%;
 }
 .spp {
   padding-top: 5%;
@@ -197,7 +197,6 @@ nav a {
   flex-direction: row;
   padding-top: 3%;
   padding-bottom: 3%;
-  background-color: brown;
 }
 .Bpx {
   display: flex;
@@ -208,6 +207,7 @@ nav a {
 .Bpic {
   height: 150px;
   width: 150px;
+  border-radius: 50%;
 }
 .bpp {
   padding-top: 5%;
